@@ -10,3 +10,6 @@
 Akin-S-Dev/Akin-S-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@902448269942/30-nites-of-code)  
+  ![@902448269942 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=902448269942)
